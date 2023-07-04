@@ -7,12 +7,10 @@ The Job Recommendation System aims to assist job seekers in finding relevant job
 
 ## Installation
 1. Clone the repository
-2. Install the required dependencies
-
 
 ## Usage
 1. Prepare the dataset:
-- Obtain the Naukri.com dataset.
+- Obtain the Naukri.com dataset from [Kaggle](https://www.kaggle.com/datasets/promptcloud/jobs-on-naukricom)
 - Ensure the dataset is in CSV format and contains relevant columns such as user profiles, job postings, and user interactions.
 - Modify the code to match the dataset structure if necessary.
 
@@ -40,11 +38,5 @@ To assess the performance of the recommendation system, various evaluation metri
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements for the Job Recommendation System, please open an issue or submit a pull request. Together, we can enhance the system and make it even more valuable for job seekers.
-
-## License
-The Job Recommendation System is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code for both non-commercial and commercial purposes.
-
----
-Feel free to customize the README.md file based on your specific project details and requirements. Provide instructions on how to install and use the system, mention the data source, describe the algorithm used, discuss evaluation methods, encourage contributions, and specify the project's license.
 
 
